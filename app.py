@@ -15,7 +15,7 @@ def index():
        counter+=1
        return "Hmm, Plus 1 please "
     else:
-       return str(f"Our CoUnTeR_NEW is: {counter} ")
+       return str(f"Our CoUnTeR_NEWNEW is: {counter} ")
 
 # flask with db
 @app.route('/widgets')
